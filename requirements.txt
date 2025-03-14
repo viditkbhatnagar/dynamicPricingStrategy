@@ -1,7 +1,7 @@
 setuptools>=66.0.0
 wheel
-streamlit==1.22.0
-pandas==1.5.3
+streamlit
+pandas
 numpy
 matplotlib==3.7.1
 seaborn==0.12.2
